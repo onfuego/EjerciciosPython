@@ -19,7 +19,7 @@ else:
 utilidades = precio_venta * usuarios - gastos
 #Se compoara la utilidad del periodo actual con la del periodo anterior
 razon_utilidades = int((utilidades/utilidades_anterior)*100)
-#Se imprime la información solicitada 
+#Se imprime la información solicitada
 print("Las utilidades del periodo actual son de {}".format(utilidades))
 print("las utilidades del periodo anterior son de {}".format(utilidades_anterior))
 print("La razon entre las utilidades del periodo actual y del anterior es de un {}%".format(razon_utilidades))
