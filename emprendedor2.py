@@ -21,6 +21,6 @@ usuarios_normales = usuarios_totales - usuarios_premium - usuarios_gratuitos
 utilidades = (precio_venta * usuarios_normales) + (precio_venta_premium * usuarios_premium) + (precio_venta_gratuitos * usuarios_gratuitos) - gastos
 #Si las utilidades son positivas, se aplica un impuesto de 35%
 if utilidades > 0:
-    utilidades *= 0.75
+    utilidades *= 0.65
 #Se imprimen las utilidades
 print("Las utilidades son de {}".format(utilidades))

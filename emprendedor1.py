@@ -15,7 +15,7 @@ utilidades = precio_venta * usuarios - gastos
 
 #se aplica impuesto si utilidades son positivas
 if utilidades > 0:
-	utilidades *= 0.75
+	utilidades *= 0.65
 
 #Se imprimen utilidades
 print("Las utilidades son de {}".format(utilidades))
