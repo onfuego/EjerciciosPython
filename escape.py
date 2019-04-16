@@ -7,6 +7,6 @@ g = float(sys.argv[1])
 #Usuario debe ingresar el valor del radio como segundo parametro
 r = float(sys.argv[2])
 #Se calcula la velocidad con los datos obtenidos
-velocidad = sqrt(2*g*r)
+velocidad = sqrt(2*g*r*1000)
 #Se imprime la velocidad calculada
-print("La velocidad es {}".format(velocidad))
+print(velocidad)
