@@ -11,11 +11,10 @@ usuarios = int(sys.argv[2])
 gastos = float(sys.argv[3])
 
 #Se calculan las utilidades
-utilidades = precio_venta * usuarios - gastos
+utilidades = ((precio_venta * usuarios) - gastos)
 
 #se aplica impuesto si utilidades son positivas
 if utilidades > 0:
-	utilidades *= 0.65
-
+	utilidades = utilidades * 0.65
 #Se imprimen utilidades
 print("Las utilidades son de {}".format(utilidades))

@@ -20,6 +20,5 @@ utilidades = precio_venta * usuarios - gastos
 #Se compsara la utilidad del periodo actual con la del periodo anterior
 razon_utilidades = int((utilidades/utilidades_anterior)*100)
 #Se imprime la informacion solicitada
-print("Las utilidades del periodo actual son de {}".format(utilidades))
-print("las utilidades del periodo anterior son de {}".format(utilidades_anterior))
+print(razon_utilidades)
 print("La razon entre las utilidades del periodo actual y del anterior es de un {}%".format(razon_utilidades))
