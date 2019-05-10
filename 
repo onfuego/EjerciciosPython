@@ -1,0 +1,133 @@
+[33mcommit 50cc46dc4bc79923b4b42087ee9312954c7d6627[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: onfuego <tomsolise@gmail.com>
+Date:   Thu Apr 18 14:50:30 2019 -0400
+
+    agrego cadena gatos
+
+[33mcommit c55768c5b375130fec3345d3c07595c1ec47adcf[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: onfuego <tomsolise@gmail.com>
+Date:   Thu Apr 18 12:16:12 2019 -0400
+
+    Agrego nuevo ejercicio
+
+[33mcommit c1ecbea598e8343a72471f8f4af405a43b7a7db7[m
+Author: Tomas Alejandro Solis Espindola <tsolis@santanderseguros.cl.bsch>
+Date:   Wed Apr 17 11:43:33 2019 -0400
+
+    Se elimina archivo .zip
+
+[33mcommit c49091672d644c6a040f64355dd51daf36e17a6c[m
+Merge: a99ca91 4dfd2da
+Author: Tomas Alejandro Solis Espindola <tsolis@santanderseguros.cl.bsch>
+Date:   Wed Apr 17 11:24:09 2019 -0400
+
+    Merge branch 'master' of https://github.com/onfuego/EjerciciosPython
+
+[33mcommit a99ca91a72dcd1ca6a26b1bcc43af85221d6e1d7[m
+Author: Tomas Alejandro Solis Espindola <tsolis@santanderseguros.cl.bsch>
+Date:   Wed Apr 17 11:22:40 2019 -0400
+
+    Se agrega programa de interes compuesto
+
+[33mcommit 4dfd2da1e7efab4cc26606a3a93891cb5abcfbf0[m
+Author: Tomás Solís <tomsolise@MacBook-Pro-15.local>
+Date:   Tue Apr 16 21:23:21 2019 -0400
+
+    Adjunto archivos finales
+
+[33mcommit 103ec96e72f06fb0c168df3104c9d39ea183a291[m
+Author: Tomás Solís <tomsolise@MacBook-Pro-15.local>
+Date:   Tue Apr 16 19:53:54 2019 -0400
+
+    Arreglo ejercicio escape
+
+[33mcommit 8f5013942d824b6cf0543ae8f6e9eb219dc4bcde[m
+Author: Tomás Solís <tomsolise@MacBook-Pro-15.local>
+Date:   Sat Apr 13 17:28:48 2019 -0400
+
+    Se generar arreglos en juego.py
+
+[33mcommit b27f49e689ddf609268d15f6f9c7041dd03cd678[m
+Author: Tomás Solís <tomsolise@MacBook-Pro-15.local>
+Date:   Sat Apr 13 17:17:25 2019 -0400
+
+    Se agregan nuevos Scripts
+
+[33mcommit 5ec0d3ff5d410e70f37e591b5db230558ec25dcb[m
+Merge: f9cd08f f3b2144
+Author: Tomás Solís <tomsolise@MacBook-Pro-15.local>
+Date:   Sat Apr 13 16:36:55 2019 -0400
+
+    Merge branch 'master' of https://github.com/onfuego/EjerciciosPython
+
+[33mcommit f9cd08f3f9940d9ad0bacac8512761d20c039479[m
+Author: Tomás Solís <tomsolise@MacBook-Pro-15.local>
+Date:   Sat Apr 13 16:32:50 2019 -0400
+
+    Se agregan mejoras en Emprendedorr
+
+[33mcommit 0afe036e26b77cd43f45cff2a3be554470aec3b7[m
+Author: Tomás Solís <tomsolise@MacBook-Pro-15.local>
+Date:   Sat Apr 13 16:29:16 2019 -0400
+
+    Se agregan mejoras en los emprendedores
+
+[33mcommit f3b2144f0e0e0d5029a715d8b7638f0ee3729581[m
+Author: Tomás Solís <tomsolise@MacBook-Pro-15.local>
+Date:   Sat Apr 13 16:21:50 2019 -0400
+
+    e agregan mejoras en los emprendedores
+
+[33mcommit 5fe446bbfccab712be953a04b57c2a9440e7d9be[m
+Author: Tomás Solís <tomsolise@MacBook-Pro-15.local>
+Date:   Sat Apr 13 14:28:51 2019 -0400
+
+    Agrego ejercio emprendedor3
+
+[33mcommit f480d43431c0eb93c0f4786a5f5b12ac3f1ec73e[m
+Author: Tomás Solís <tomsolise@MacBook-Pro-15.local>
+Date:   Sat Apr 13 12:25:54 2019 -0400
+
+    Agrego nuevas tareas y correcciones a emprendedor
+
+[33mcommit 08867d356147b512fa775de31a703f86ae77e9b2[m
+Author: Tomás Solís <tomsolise@MacBook-Pro-15.local>
+Date:   Sat Apr 13 10:45:02 2019 -0400
+
+    Ejercicio de velocidad de escape
+
+[33mcommit 516b798a11a890a5fb4d03062575a9d19cc96cde[m
+Author: Tomás Solís <tomsolise@MacBook-Pro-15.local>
+Date:   Sat Apr 13 10:41:38 2019 -0400
+
+    Ejercicio de velocidad de escape
+
+[33mcommit 76379962bad26f19d0ea5c0cf5616c8bae52d586[m
+Author: onfuego <tomsolise@gmail.com>
+Date:   Wed Apr 10 15:39:04 2019 -0400
+
+    Ejercicio Rentabilidad emprendedor2
+
+[33mcommit 158620ddf3b9cb618c0606060032b4498b50bd3e[m
+Author: onfuego <tomsolise@gmail.com>
+Date:   Wed Apr 10 15:01:48 2019 -0400
+
+    Ejercicio Velocidad de Escape
+
+[33mcommit d1f8fc717bb9fd32d6bd430a388571c23b047871[m
+Author: onfuego <tomsolise@gmail.com>
+Date:   Wed Apr 10 14:59:12 2019 -0400
+
+    Ejercicio Rentabilidad emprendedor1
+
+[33mcommit 2163a284759eb250f37becfd7623536973058407[m
+Author: onfuego <tomsolise@gmail.com>
+Date:   Wed Apr 10 14:48:57 2019 -0400
+
+    Ejercicio Velocidad de Escape
+
+[33mcommit 4b307d6a3c536b5df5409e3c0e8b30317f3b3e17[m
+Author: onfuego <tomsolise@gmail.com>
+Date:   Wed Apr 10 10:57:33 2019 -0400
+
+    Ejercicio Pizza
